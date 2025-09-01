@@ -17,7 +17,7 @@
 https://qiita.com/shown_it/items/6e7fb7777f45008e0496<br>
 他に言うことは何もない
 
-あ`.env`の中にDiscordのbotトークン書いてね
+`.env`ファイルの中にDiscordのbotトークン書いて
 ```txt:.env
 DISCORD_TOKEN=tokenの番号
 ```
