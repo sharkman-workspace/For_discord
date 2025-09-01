@@ -21,3 +21,10 @@ https://qiita.com/shown_it/items/6e7fb7777f45008e0496<br>
 ```txt:.env
 DISCORD_TOKEN=tokenの番号
 ```
+
+## botの設定
+OAuth2 URL GeneratorでTEXT PERMISSIONSの
+- Send Messages
+- Embed Links
+- Use Slash Commands
+にチェックを入れてボットを動かすこと。権限不足でうまくいかない可能性あり。
