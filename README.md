@@ -27,4 +27,5 @@ OAuth2 URL GeneratorでTEXT PERMISSIONSの
 - Send Messages
 - Embed Links
 - Use Slash Commands
+
 にチェックを入れてボットを動かすこと。権限不足でうまくいかない可能性あり。
